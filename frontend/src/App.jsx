@@ -24,7 +24,7 @@ function App() {
 
   return (
     <div style={{ padding: "2rem" }}>
-      <h1>LegalSearch AI</h1>
+      <h1>LegalSearch</h1>
       <input
         type="text"
         value={query}
